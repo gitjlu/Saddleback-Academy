@@ -1,0 +1,10 @@
+Test our Product through Figma!
+
+Mobile Application Version Test Link:
+
+https://www.figma.com/proto/6uwvBLKSHOqhBF4vQZw1kV/Saddleback-Academy-Project-Board?node-id=880-295&starting-point-node-id=880%3A295&t=mljqkv6wKrnh5clv-1
+
+
+Desktop Application Version Test Link:
+
+https://www.figma.com/proto/6uwvBLKSHOqhBF4vQZw1kV/Saddleback-Academy-Project-Board?node-id=610-853&starting-point-node-id=610%3A853&t=WEkI52KBFtgNObGK-1
